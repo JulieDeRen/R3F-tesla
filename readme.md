@@ -2,6 +2,9 @@
 ## Voiture qui roule
 ## Modèle changé et provenant de Sektchfab
 ## Installer le projet dans serveur web
+## Initialiser le projet :
+npx create-react-app . --template minimal
+npm install three @react-three/fiber @react-three/drei @react-three/postprocessing
 ## Pour démarrer le projet localement, ouvrir terminal et utiliser commande : npm start
 
 ## Sources :
